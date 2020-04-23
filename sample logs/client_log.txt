@@ -1,0 +1,202 @@
+./client_log.txt 2020-04-22 02:59:29.378: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:00:43.696: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:07:46.638: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:26:12.298: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:30:19.594: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:31:53.027: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:48:44.082: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:48:46.631: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:52:16.507: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:52:19.413: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:52:57.963: Thread ID: 1: creating auction car0 was successful
+./client_log.txt 2020-04-22 03:54:46.288: Thread ID: 1: creating auction cat0 was successful
+./client_log.txt 2020-04-22 03:56:56.98: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:57:08.64: Thread ID: 1: creating auction car1 was successful
+./client_log.txt 2020-04-22 03:58:28.031: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 03:58:58.708: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:00:25.048: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:00:59.293: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:01:16.741: Thread ID: 1: bidding for car1 was successful
+./client_log.txt 2020-04-22 04:01:30.314: Thread ID: 1: closing auction car1 was unsuccessful
+./client_log.txt 2020-04-22 04:01:30.314: Thread ID: 1: make sure that you are the original creator of the auction
+./client_log.txt 2020-04-22 04:01:48.178: Thread ID: 1: deleting auction car1 was unsuccessful
+./client_log.txt 2020-04-22 04:01:48.178: Thread ID: 1: make sure that you are the original creator of the auction
+./client_log.txt 2020-04-22 04:06:25.627: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:06:57.37: Thread ID: 1: creating auction bike0 was successful
+./client_log.txt 2020-04-22 04:07:15.762: Thread ID: 1: bidding for car1 was successful
+./client_log.txt 2020-04-22 04:07:47.432: Thread ID: 1: bidding for bike0 was unsuccessful
+./client_log.txt 2020-04-22 04:07:56.544: Thread ID: 1: bidding for bike0 was successful
+./client_log.txt 2020-04-22 04:08:06.529: Thread ID: 1: closing auction bike0 was successful
+./client_log.txt 2020-04-22 04:08:16.974: Thread ID: 1: closing auction car1 was unsuccessful
+./client_log.txt 2020-04-22 04:08:16.975: Thread ID: 1: make sure that you are the original creator of the auction
+./client_log.txt 2020-04-22 04:12:51.624: Thread ID: 1: bidding for bike0 was successful
+./client_log.txt 2020-04-22 04:19:21.67: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:20:02.445: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:20:13.734: Thread ID: 1: creating auction car was successful
+./client_log.txt 2020-04-22 04:25:03.912: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 04:25:23.4: Thread ID: 1: creating auction food was successful
+./client_log.txt 2020-04-22 17:45:16.555: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:45:16.632: Thread ID: 1: client UUID is 15de89c5-dcc8-4032-a49f-f0d6b4385474
+./client_log.txt 2020-04-22 17:45:26.046: Thread ID: 1: user name is clear
+./client_log.txt 2020-04-22 17:45:27.385: Thread ID: 1: Entered command: 
+./client_log.txt 2020-04-22 17:46:34.69: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:46:34.742: Thread ID: 1: client UUID is 5e5c0829-c908-4b3e-b089-e9a31cc4b09b
+./client_log.txt 2020-04-22 17:47:06.676: Thread ID: 1: user name is 
+./client_log.txt 2020-04-22 17:47:06.821: Thread ID: 1: Entered command: 
+./client_log.txt 2020-04-22 17:47:06.945: Thread ID: 1: Entered command: 
+./client_log.txt 2020-04-22 17:47:07.08: Thread ID: 1: Entered command: 
+./client_log.txt 2020-04-22 17:47:07.226: Thread ID: 1: Entered command: 
+./client_log.txt 2020-04-22 17:47:11.968: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:47:12.011: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:47:12.022: Thread ID: 1: client UUID is b010c5c6-692b-4d45-9a4d-9654edafe2d9
+./client_log.txt 2020-04-22 17:47:40.387: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:47:40.425: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:47:40.436: Thread ID: 1: client UUID is 87a6cf9a-794e-4ce6-a9bb-7296266ee526
+./client_log.txt 2020-04-22 17:49:10.751: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:49:10.791: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:49:10.804: Thread ID: 1: client UUID is 848ff1ae-e726-4379-88a3-74a76df96ecc
+./client_log.txt 2020-04-22 17:49:56.762: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:49:56.802: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:49:56.814: Thread ID: 1: client UUID is 53e318fc-61d2-40d9-ae55-33a354d6e308
+./client_log.txt 2020-04-22 17:51:50.065: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:51:50.103: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:51:50.116: Thread ID: 1: client UUID is 816fd008-c57a-460a-add2-39f281e0ea2f
+./client_log.txt 2020-04-22 17:52:39.33: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:52:39.37: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:52:39.383: Thread ID: 1: client UUID is 6d9fbe3e-fa05-41f8-b12c-336e154dcee2
+./client_log.txt 2020-04-22 17:55:08.998: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 17:55:09.036: Thread ID: 1: java.net.ConnectException: Connection refused (Connection refused)
+./client_log.txt 2020-04-22 17:55:09.049: Thread ID: 1: client UUID is 8e23a8df-a88b-4d63-8009-a21166568641
+./client_log.txt 2020-04-22 18:01:03.994: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:01:04.044: Thread ID: 1: client UUID is 4ca4a6d4-be60-467a-bfb0-a46aa976859c
+./client_log.txt 2020-04-22 18:01:07.427: Thread ID: 1: user name is sam
+./client_log.txt 2020-04-22 18:01:10.98: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:01:11.031: Thread ID: 1: client UUID is 0b595cfe-8c48-477b-a99a-a941a8598ce0
+./client_log.txt 2020-04-22 18:01:13.05: Thread ID: 1: user name is bob
+./client_log.txt 2020-04-22 18:01:14.972: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:01:15.026: Thread ID: 1: client UUID is 26925739-ab38-42c7-bb49-b596fc04a506
+./client_log.txt 2020-04-22 18:01:16.851: Thread ID: 1: user name is john
+./client_log.txt 2020-04-22 18:02:07.961: Thread ID: 1: Entered command: CREATE car 1000
+./client_log.txt 2020-04-22 18:02:29.617: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:02:42.459: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:02:42.51: Thread ID: 1: client UUID is 7440b1de-bf40-443a-910f-2740628916dd
+./client_log.txt 2020-04-22 18:02:44.264: Thread ID: 1: user name is sa
+./client_log.txt 2020-04-22 18:02:46.086: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:03:04.354: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:03:04.406: Thread ID: 1: client UUID is d04187fc-5c44-4733-80b6-7d39062a45bb
+./client_log.txt 2020-04-22 18:03:07.147: Thread ID: 1: user name is sda
+./client_log.txt 2020-04-22 18:03:08.608: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:07:12.905: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:07:12.958: Thread ID: 1: client UUID is 562166fb-4c2a-49f2-bec3-76c3f567c9f0
+./client_log.txt 2020-04-22 18:07:16.544: Thread ID: 1: user name is sam
+./client_log.txt 2020-04-22 18:07:18.209: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:08:17.339: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:08:17.393: Thread ID: 1: client UUID is 4391e39d-5510-45e2-ba29-43344e0b560d
+./client_log.txt 2020-04-22 18:08:19.003: Thread ID: 1: user name is sa
+./client_log.txt 2020-04-22 18:08:25.033: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:08:57.813: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:08:57.872: Thread ID: 1: client UUID is 4cee7d24-48c4-44d5-bc3b-e1fde4f67490
+./client_log.txt 2020-04-22 18:08:59.163: Thread ID: 1: user name is sda
+./client_log.txt 2020-04-22 18:09:02.123: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:10:13.642: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./client_log.txt 2020-04-22 18:10:27.147: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:10:27.198: Thread ID: 1: client UUID is 60949ca2-e83b-4f2e-923e-d62228593d22
+./client_log.txt 2020-04-22 18:10:28.871: Thread ID: 1: user name is sam
+./client_log.txt 2020-04-22 18:10:29.997: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:28:53.393: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:29:04.057: Thread ID: 1: Entered command: CREATE car 1000
+./client_log.txt 2020-04-22 18:29:04.234: Thread ID: 1: creating auction car was successful
+./client_log.txt 2020-04-22 18:29:09.773: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:29:19.581: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:29:19.638: Thread ID: 1: client UUID is 1af867d2-e6dd-4958-98ff-92b48cbc3e76
+./client_log.txt 2020-04-22 18:29:23.711: Thread ID: 1: user name is twp
+./client_log.txt 2020-04-22 18:29:28.661: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:29:33.059: Thread ID: 1: Entered command: CREATE cat 10
+./client_log.txt 2020-04-22 18:29:33.105: Thread ID: 1: creating auction cat was successful
+./client_log.txt 2020-04-22 18:29:35.197: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:29:45.405: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:29:45.454: Thread ID: 1: client UUID is 8fd47c84-65ff-4ce6-9cf4-80ecc05ea95d
+./client_log.txt 2020-04-22 18:29:49.991: Thread ID: 1: user name is gam
+./client_log.txt 2020-04-22 18:29:52.916: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:30:06.888: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:30:08.867: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:33:23.05: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:33:23.1: Thread ID: 1: client UUID is 21992a76-1a46-4c89-9a77-c82412468819
+./client_log.txt 2020-04-22 18:33:24.683: Thread ID: 1: user name is sam
+./client_log.txt 2020-04-22 18:33:27.301: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:33:27.349: Thread ID: 1: client UUID is 1fbe4aae-d564-4b2e-8278-9bbfcce8d1ac
+./client_log.txt 2020-04-22 18:33:27.742: Thread ID: 1: user name is bob
+./client_log.txt 2020-04-22 18:33:30.521: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:33:30.574: Thread ID: 1: client UUID is b485ffd7-02fd-45b1-af1b-9fe99b89680f
+./client_log.txt 2020-04-22 18:33:31.963: Thread ID: 1: user name is john
+./client_log.txt 2020-04-22 18:33:47.183: Thread ID: 1: Entered command: CREATE car 1000
+./client_log.txt 2020-04-22 18:33:47.368: Thread ID: 1: creating auction car was successful
+./client_log.txt 2020-04-22 18:33:55.958: Thread ID: 1: Entered command: CREATE shoes 5
+./client_log.txt 2020-04-22 18:33:55.992: Thread ID: 1: creating auction shoes was successful
+./client_log.txt 2020-04-22 18:33:58.985: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:34:09.705: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:34:18.266: Thread ID: 1: Entered command: BID car 1100
+./client_log.txt 2020-04-22 18:34:18.352: Thread ID: 1: bidding for car was successful
+./client_log.txt 2020-04-22 18:34:23.114: Thread ID: 1: Entered command: BID shoes 6
+./client_log.txt 2020-04-22 18:34:23.148: Thread ID: 1: bidding for shoes was successful
+./client_log.txt 2020-04-22 18:34:30.933: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:34:38.965: Thread ID: 1: Entered command: BID car 1200
+./client_log.txt 2020-04-22 18:34:39.015: Thread ID: 1: bidding for car was successful
+./client_log.txt 2020-04-22 18:34:43.961: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:34:56.831: Thread ID: 1: Entered command: CLOSE car
+./client_log.txt 2020-04-22 18:34:56.902: Thread ID: 1: closing auction car was successful
+./client_log.txt 2020-04-22 18:35:06.495: Thread ID: 1: Entered command: DELETE shoes
+./client_log.txt 2020-04-22 18:35:06.577: Thread ID: 1: deleting auction shoes was successful
+./client_log.txt 2020-04-22 18:35:52.146: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:36:10.809: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:39:12.395: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:39:12.445: Thread ID: 1: client UUID is 3b799372-24e2-4361-ae3a-a96ec813abb1
+./client_log.txt 2020-04-22 18:39:15.336: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:39:15.387: Thread ID: 1: client UUID is e0310d32-6a3c-42fa-8004-e8afc5255131
+./client_log.txt 2020-04-22 18:39:16.824: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:39:16.877: Thread ID: 1: client UUID is b2c14e95-2543-47f5-a4b0-696e3fe7bc39
+./client_log.txt 2020-04-22 18:39:23.025: Thread ID: 1: user name is a
+./client_log.txt 2020-04-22 18:39:23.441: Thread ID: 1: user name is b
+./client_log.txt 2020-04-22 18:39:23.879: Thread ID: 1: user name is c
+./client_log.txt 2020-04-22 18:39:27.773: Thread ID: 1: Entered command: CREATE car 10
+./client_log.txt 2020-04-22 18:39:27.954: Thread ID: 1: creating auction car was successful
+./client_log.txt 2020-04-22 18:39:32.587: Thread ID: 1: Entered command: BID car 20
+./client_log.txt 2020-04-22 18:39:32.653: Thread ID: 1: bidding for car was successful
+./client_log.txt 2020-04-22 18:39:33.554: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:39:37.133: Thread ID: 1: Entered command: CLOSE car
+./client_log.txt 2020-04-22 18:39:37.198: Thread ID: 1: closing auction car was successful
+./client_log.txt 2020-04-22 18:39:39.134: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:39:47.527: Thread ID: 1: Entered command: BID car 40
+./client_log.txt 2020-04-22 18:39:47.545: Thread ID: 1: bidding for car was unsuccessful
+./client_log.txt 2020-04-22 18:39:50.868: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:41:25.895: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:41:25.951: Thread ID: 1: client UUID is cff85872-ff93-4b22-b7ae-f4e8cf375de7
+./client_log.txt 2020-04-22 18:41:28.923: Thread ID: 1: user name is Sam
+./client_log.txt 2020-04-22 18:41:31.004: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:41:31.06: Thread ID: 1: client UUID is 23a8425a-6710-4a7a-8357-5a56259eab2d
+./client_log.txt 2020-04-22 18:41:33.737: Thread ID: 1: user name is Bob
+./client_log.txt 2020-04-22 18:41:37.685: Thread ID: 1: Initialized a AgoraLiveAuction Client
+./client_log.txt 2020-04-22 18:41:37.742: Thread ID: 1: client UUID is 93166a87-1ddd-43c5-a0a6-3c4e87364a58
+./client_log.txt 2020-04-22 18:41:39.586: Thread ID: 1: user name is John
+./client_log.txt 2020-04-22 18:41:51.122: Thread ID: 1: Entered command: CREATE car 1000
+./client_log.txt 2020-04-22 18:41:51.303: Thread ID: 1: creating auction car was successful
+./client_log.txt 2020-04-22 18:42:01.672: Thread ID: 1: Entered command: CREATE shoes 5
+./client_log.txt 2020-04-22 18:42:01.713: Thread ID: 1: creating auction shoes was successful
+./client_log.txt 2020-04-22 18:42:05.641: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:42:14.562: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:42:27.129: Thread ID: 1: Entered command: BID car 1100
+./client_log.txt 2020-04-22 18:42:27.201: Thread ID: 1: bidding for car was successful
+./client_log.txt 2020-04-22 18:42:33.519: Thread ID: 1: Entered command: BID shoes 6
+./client_log.txt 2020-04-22 18:42:33.552: Thread ID: 1: bidding for shoes was successful
+./client_log.txt 2020-04-22 18:42:39.256: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:42:48.177: Thread ID: 1: Entered command: BID car 1200
+./client_log.txt 2020-04-22 18:42:48.252: Thread ID: 1: bidding for car was successful
+./client_log.txt 2020-04-22 18:42:52.857: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:43:07.213: Thread ID: 1: Entered command: CLOSE car
+./client_log.txt 2020-04-22 18:43:07.262: Thread ID: 1: closing auction car was successful
+./client_log.txt 2020-04-22 18:43:13.039: Thread ID: 1: Entered command: DELETE shoes
+./client_log.txt 2020-04-22 18:43:13.12: Thread ID: 1: deleting auction shoes was successful
+./client_log.txt 2020-04-22 18:43:19.023: Thread ID: 1: Entered command: LIST
+./client_log.txt 2020-04-22 18:43:33.997: Thread ID: 1: Entered command: BID car 1300
+./client_log.txt 2020-04-22 18:43:34.004: Thread ID: 1: bidding for car was unsuccessful
+./client_log.txt 2020-04-22 18:43:59.434: Thread ID: 1: Entered command: LIST

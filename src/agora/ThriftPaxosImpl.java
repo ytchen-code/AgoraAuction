@@ -18,6 +18,7 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
     static private List<Cohort> cohorts;
 
     static private int numCohorts;
+    static int port;
     static private AtomicInteger seq = new AtomicInteger(0);
     static private int majorityNum;
 
@@ -27,13 +28,18 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         static PaxosData data = null;
     }
 
-    public ThriftPaxosImpl(List<Cohort> cohortList) {
+    /**
+     * Initialize the thrift server with a list of peer servers
+     * @param cohortList peer servers
+     */
+    public ThriftPaxosImpl(List<Cohort> cohortList, int port) {
         cohorts = cohortList;
         numCohorts = cohortList.size();
         majorityNum = numCohorts/2 - 1;
+        ThriftPaxosImpl.port = port;
 
         /* recovery code for server */
-        ArrayList<ThriftPaxos.Client> clients = initClients();
+        ArrayList<ThriftPaxos.Client> clients = initClients(true);
         for (ThriftPaxos.Client client: clients) {
             try {
                 Map<String, Auction> map = client.getAllAuctions();
@@ -41,24 +47,30 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
                     lock.writeLock().lock();
                     auctions = map;
                     lock.writeLock().unlock();
+                    logger.log("recovered all data by sync'ing to the cluster");
                     break;
                 }
             } catch (TException e) {
 //                e.printStackTrace();
-                logger.log(e.toString());
+                logger.silentLog(e.getMessage());
             }
         }
     }
 
-    private ArrayList<ThriftPaxos.Client> initClients() {
+    /**
+     * initialize the thrift object representing other servers in the cluster
+     * @return list of thrift object clients
+     */
+    private ArrayList<ThriftPaxos.Client> initClients(boolean skipMyself) {
         ArrayList<ThriftPaxos.Client> arrayList = new ArrayList<>();
         for (Cohort cohort: cohorts) {
+            if (skipMyself && cohort.port == ThriftPaxosImpl.port) { continue; }
             TTransport transport = new TSocket(cohort.inetAddress.getHostName(), cohort.port);
             try {
                 transport.open();
             } catch (TTransportException e) {
-                logger.log("cannot connect to " + cohort.inetAddress.getHostName() + ":" + cohort.port);
-                e.printStackTrace();
+                logger.silentLog("cannot connect to " + cohort.inetAddress.getHostName() + ":" + cohort.port);
+//                e.printStackTrace();
                 continue;
             }
             arrayList.add(new ThriftPaxos.Client(new TBinaryProtocol(transport)));
@@ -66,10 +78,15 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         return arrayList;
     }
 
+    /**
+     * the paxos logic is here
+     * @param value the action that needs to be performed via paxos
+     * @return true if sucessful. false otherwise
+     */
     private boolean doPaxos(Value value) {
-        System.out.println("in do paxos");
+        logger.log("starting paxos");
 
-        ArrayList<ThriftPaxos.Client> clients = initClients();
+        ArrayList<ThriftPaxos.Client> clients = initClients(false);
         ArrayList<PaxosData> promises = new ArrayList<>();
         boolean isNack;
         int highestSeq;
@@ -94,8 +111,8 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
                         }
                     }
                 } catch (TException e) {
-                    logger.log(e.toString());
-                    e.printStackTrace();
+                    logger.log(e.getMessage());
+//                    e.printStackTrace();
                 }
             }
 
@@ -118,16 +135,21 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
                 /* accept returns accepted and triggers announce*/
                 client.accept(pd);
             } catch (TException e) {
-                /* simulated failure of acceptor gets caught here */
-                logger.log(e.toString());
-                e.printStackTrace();
+                logger.log(e.getMessage());
+//                e.printStackTrace();
             }
         }
 
         return true;
     }
 
+    /**
+     * helper for announce() method
+     * create auction item
+     * @param item item to be sold
+     */
     private void create(Item item) {
+        logger.log("create " + item.itemName);
         Auction auction = new Auction();
         auction.item = item;
         auction.open = true;
@@ -137,7 +159,15 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         lock.writeLock().unlock();
     }
 
+    /**
+     * helper for announce() method
+     * delete auction
+     * @param itemName item to delete from auction
+     * @param user credentials of the user performing this action
+     * @return not relevant
+     */
     private boolean delete(String itemName, User user) {
+        logger.log("delete " + itemName);
         lock.writeLock().lock();
         auctions.remove(itemName);
         lock.writeLock().unlock();
@@ -145,7 +175,15 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         return true;
     }
 
+    /**
+     * helper for announce() method
+     * close auction
+     * @param itemName item to close the auction for
+     * @param user credentials of the user performing this action
+     * @return not relevant
+     */
     private boolean close(String itemName, User user) {
+        logger.log("close " + itemName);
         lock.writeLock().lock();
         if (auctions.containsKey(itemName)) {
             auctions.get(itemName).open = false;
@@ -155,8 +193,14 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         return true;
     }
 
+    /**
+     * bid for an item
+     * @param bid
+     * @return
+     */
     private boolean bid(Bid bid) {
         boolean succ = false;
+        logger.log("attempting bid " + bid.itemName + " " + bid.price);
         lock.writeLock().lock();
         if (auctions.containsKey(bid.itemName)) {
             Auction auction = auctions.get(bid.itemName);
@@ -164,6 +208,9 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
                 auction.item.price = bid.price;
                 auction.highestBidder = bid.bidder;
                 succ = true;
+                logger.log("bid successful");
+            } else {
+                logger.log("bid unsuccessful");
             }
         }
         lock.writeLock().unlock();
@@ -175,7 +222,7 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
      * @param pd
      */
     private void announce(PaxosData pd) {
-        System.out.println("in announce");
+        logger.log("in announce");
         switch (pd.v.action) {
             case "CREATE":
                 create(pd.v.item);
@@ -195,36 +242,68 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         }
     }
 
+    /**
+     * Paxos prepare
+     * Returns paxos promise from acceptors
+     * Acceptors returns a nack if not a valid seq number (as per Lamport's optimization suggestion)
+     * @param pd data containing sequence number and transaction details
+     * @return Paxos Promise
+     */
     @Override
     public PaxosData prepare(PaxosData pd) throws org.apache.thrift.TException {
+        logger.log("in prepare");
         if (Acceptor.data == null) {
             Acceptor.data = pd;
+            logger.log("in promise");
             return pd;
         } else if (pd.n > Acceptor.data.n) {
             Acceptor.data = pd;
+            logger.log("in promise");
             return pd;
         } else {
+            logger.log("in promise - nack");
             PaxosData nack = Acceptor.data.deepCopy();
             nack.setNack(true);
             return nack;
         }
     }
 
+    /**
+     * Paxos Accept
+     * Returns paxos Accepted and triggers paxos Anounce
+     * @param pd data containing sequence number and transaction details
+     * @return transaction that was accepted
+     */
     @Override
     public PaxosData accept(PaxosData pd) throws org.apache.thrift.TException {
+        logger.log("in accept");
         Acceptor.data = pd;
         announce(pd);
         return pd;
     }
 
+    /**
+     * Method for client to get all information about auctions
+     * @return
+     * @throws org.apache.thrift.TException
+     */
     @Override
     public Map<String, Auction> getAllAuctions() throws org.apache.thrift.TException {
+        logger.log("in getAllAuctions");
         return auctions;
     }
 
+    /**
+     * Method for client to bid on an auction item
+     * @param itemName item to bid on
+     * @param user user credentials of the bidder
+     * @param price bidding price
+     * @return indicate whether bid was successful
+     * @throws org.apache.thrift.TException
+     */
     @Override
     public boolean bid(String itemName, User user, int price) throws org.apache.thrift.TException {
-        System.out.println("bid");
+        logger.log("received req for bid " + itemName);
 
         int currPrice = -1;
         boolean open = false;
@@ -251,9 +330,29 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         return doPaxos(val);
     }
 
+    /**
+     * Method for client to create auctions
+     * @param item item to create the auction for
+     * @param user credential of user wanting to create this auction
+     * @return boolean indicating whether the creation was successful
+     * @throws org.apache.thrift.TException
+     */
     @Override
     public boolean createAuction(Item item, User user) throws org.apache.thrift.TException {
-        System.out.println("createAuction");
+        logger.log("received req for createAuction " + item.itemName);
+
+        boolean alreadyExist = false;
+
+        lock.readLock().lock();
+        if (auctions.containsKey(item.itemName)) {
+            alreadyExist = true;
+        }
+        lock.readLock().unlock();
+
+        if (alreadyExist) {
+            return false;
+        }
+
         Value val = new Value();
         val.action = "CREATE";
         val.item = item;
@@ -261,9 +360,17 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         return doPaxos(val);
     }
 
+    /**
+     * Method for client to delete an auction
+     * Only the original creator of the auction can delete the auction
+     * @param itemName item to delete the auction for
+     * @param user credential of the user wanting to delete
+     * @return  boolean indicating whether the deletion was successful
+     * @throws org.apache.thrift.TException
+     */
     @Override
     public boolean delAuction(String itemName, User user) throws org.apache.thrift.TException {
-        System.out.println("delAuction");
+        logger.log("received req for delAuction " + itemName);
         String creatorUUID = "";
         lock.readLock().lock();
         if (auctions.containsKey(itemName)) {
@@ -283,9 +390,17 @@ public class ThriftPaxosImpl implements ThriftPaxos.Iface {
         return doPaxos(val);
     }
 
+    /**
+     * Method for client to close an auction
+     * Only the original creator of the auction can close the auction
+     * @param itemName item to close the auction for
+     * @param user credential of the user wanting to close the auction
+     * @return boolean indicating whether the close was successful
+     * @throws org.apache.thrift.TException
+     */
     @Override
     public boolean closeAuction(String itemName, User user) throws org.apache.thrift.TException {
-        System.out.println("closeAuction");
+        logger.log("received req for closeAuction " + itemName);
 
         String creatorUUID = "";
         lock.readLock().lock();

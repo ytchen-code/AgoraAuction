@@ -15,6 +15,11 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.UUID;
 
+
+/**
+ * Client that connects to a server
+ * This is a user interactive client that reads from STDIN
+ */
 public class Client {
     /* PAXOS related */
     private ThriftPaxos.Client auctionServer;
@@ -25,48 +30,65 @@ public class Client {
 
     private User user = new User();
 
+    /**
+     * create a thirft connection object to server
+     */
     private void connectServer() {
         TTransport transport = new TSocket(this.inetAddress.getHostName(), this.port);
         try {
             transport.open();
         } catch (TTransportException e) {
+            this.logger.log(e.getMessage());
             e.printStackTrace();
         }
         auctionServer = new ThriftPaxos.Client(new TBinaryProtocol(transport));
     }
 
+    /**
+     * Initializer for client
+     * @param host server host address
+     * @param port server port number
+     */
     public Client(String host, int port) {
         try {
             this.inetAddress = InetAddress.getByName(host);
             this.port = port;
             this.logger = new Logger("./client_log.txt");
             this.logger.log("Initialized a AgoraLiveAuction Client");
-//            TTransport transport = new TSocket(this.inetAddress.getHostName(), this.port);
-//            transport.open();
-//            auctionServer = new ThriftPaxos.Client(new TBinaryProtocol(transport));
             connectServer();
 
             this.user.setUuid(UUID.randomUUID().toString());
 
+            this.logger.silentLog("client UUID is " + this.user.getUuid());
         } catch (UnknownHostException e) {
             e.printStackTrace();
             throw new RuntimeException(e);
         }
     }
 
+    /**
+     * prompt client to enter a name for the auction
+     */
     private void askClientName() {
         BufferedReader reader =
                 new BufferedReader(new InputStreamReader(System.in));
         try {
             System.out.printf("Please enter your name: ");
-            this.user.setName(reader.readLine());
+            String name = reader.readLine();
+            this.user.setName(name);
+            this.logger.silentLog("user name is " + name);
             System.out.flush();
         } catch (IOException e) {
-            e.printStackTrace();
+//            e.printStackTrace();
+            this.logger.log(e.getMessage());
         }
 
     }
 
+    /**
+     * pretty print auction states
+     * @param auctions
+     */
     static private void printAuctions(Map<String, Auction> auctions) {
         if (auctions.size() == 0) {
             System.out.println("There are no auctions right now\n");
@@ -77,8 +99,6 @@ public class Client {
                 "price", "highestBidder", "status");
         for (Map.Entry<String, Auction> entry : sorted.entrySet()) {
             Auction auction = entry.getValue();
-//            assert auction.item != null;
-//            System.out.println(auction.item.price);
             System.out.printf("%-15s%-15d%-15s%-15s\n",
                     auction.item.itemName,
                     auction.item.price,
@@ -87,6 +107,9 @@ public class Client {
         }
     }
 
+    /**
+     * prompt user to enter commands
+     */
     private void prompt() {
         BufferedReader reader =
                 new BufferedReader(new InputStreamReader(System.in));
@@ -106,6 +129,9 @@ public class Client {
                 System.out.print("* Enter command: ");
                 System.out.flush();
                 String line = reader.readLine();
+
+                this.logger.silentLog("Entered command: " + line);
+
                 String[] words = line.split(" ");
 
                 try {
@@ -133,7 +159,7 @@ public class Client {
                         connectServer();
                         Item item = new Item();
                         item.itemName = words[1];
-                        item.price = Integer.parseInt(words[2]);;
+                        item.price = Integer.parseInt(words[2]);
                         item.creator = this.user;
 
                         if (item.price < 0) {
@@ -176,22 +202,26 @@ public class Client {
                         continue;
                     }
                 } catch (TException e) {
-                    e.printStackTrace();
+//                    e.printStackTrace();
+                    this.logger.log(e.getMessage());
                 } catch (NumberFormatException | ArrayIndexOutOfBoundsException e) {
-                    System.out.println("malformed input... please try again");
-                    e.printStackTrace();
+                    this.logger.log("malformed input... please try again");
+                    this.logger.log(e.getMessage());
+//                    e.printStackTrace();
                 } catch (Exception e) {
-                    e.printStackTrace();
+//                    e.printStackTrace();
+                    this.logger.log(e.getMessage());
                 }
-
-
-
             } catch (IOException e) {
-                e.printStackTrace();
+//                e.printStackTrace();
+                this.logger.log(e.getMessage());
             }
         }
     }
 
+    /**
+     * run the client
+     */
     public void run() {
         askClientName();
         prompt();

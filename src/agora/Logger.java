@@ -34,5 +34,19 @@ public class Logger {
             e.printStackTrace();
         }
     }
+
+    public synchronized void silentLog(String message) {
+        try {
+            Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+            BufferedWriter writer = new BufferedWriter(new FileWriter(this.filename, true));
+            String newMessage = filename + " " + timestamp.toString() + ": " + "Thread ID: " + Thread.currentThread().getId()
+                    + ": " + message;
+            writer.write(newMessage + "\n");
+            writer.flush();
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
 

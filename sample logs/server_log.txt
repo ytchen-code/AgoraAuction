@@ -1,0 +1,962 @@
+./server_log.txt 2020-04-22 03:07:34.917: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:07:34.939: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:07:36.72: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:07:36.787: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:07:39.277: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:07:39.297: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:09:00.658: Thread ID: 13: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:09:00.66: Thread ID: 13: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:25:59.245: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:25:59.317: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:26:05.737: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:26:05.844: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:26:08.756: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:26:08.78: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:26:41.938: Thread ID: 13: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:26:41.94: Thread ID: 13: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:30:45.215: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:30:45.22: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:31:03.117: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:31:03.118: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:34:53.248: Thread ID: 16: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:34:53.251: Thread ID: 16: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:35:23.25: Thread ID: 16: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:35:23.253: Thread ID: 16: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:48:35.465: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:48:35.49: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:48:37.198: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:48:37.222: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:48:41.719: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:48:41.741: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:49:20.33: Thread ID: 13: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:49:20.332: Thread ID: 13: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:52:06.608: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:52:06.636: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:52:08.246: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:52:08.274: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:52:10.873: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:52:10.901: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:52:57.9: Thread ID: 13: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:52:57.903: Thread ID: 13: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:54:46.277: Thread ID: 13: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:54:46.281: Thread ID: 13: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 03:56:49.452: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:56:49.475: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:56:51.171: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:56:51.202: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:56:53.231: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 03:56:53.255: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 03:57:08.58: Thread ID: 13: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 03:57:08.583: Thread ID: 13: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:01:16.728: Thread ID: 18: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:01:16.729: Thread ID: 18: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:06:57.36: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:06:57.365: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:07:15.752: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:07:15.757: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:07:56.535: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:07:56.539: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:08:06.522: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:08:06.524: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:12:51.617: Thread ID: 15: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:12:51.619: Thread ID: 15: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:15:33.377: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 04:15:33.401: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 04:19:12.657: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 04:19:12.679: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 04:19:16.043: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 04:19:16.063: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 04:19:18.615: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 04:19:18.673: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 04:20:13.676: Thread ID: 18: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:20:13.679: Thread ID: 18: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:20:38.043: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 04:20:38.064: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 04:25:23.372: Thread ID: 16: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:25:23.375: Thread ID: 16: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 04:26:00.229: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 04:26:00.253: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 04:26:00.319: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 04:26:00.323: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 17:57:03.904: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 17:57:03.932: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 17:57:03.972: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 17:57:03.972: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 17:57:03.973: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 17:57:03.974: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 17:57:11.494: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 17:57:11.513: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 17:57:11.555: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 17:57:11.556: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 17:57:11.556: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 17:57:13.131: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 17:57:13.149: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 17:57:13.193: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 17:57:13.194: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 17:57:15.433: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 17:57:15.453: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 17:57:15.495: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 17:57:17.374: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 17:57:17.393: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 17:58:23.664: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:23.664: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:23.664: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:23.665: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:24.886: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:24.886: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:24.886: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:25.789: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:25.789: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 17:58:56.619: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 17:58:56.645: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 17:58:56.687: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 17:58:56.688: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 17:58:56.688: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 17:58:56.689: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:00:50.47: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:00:50.488: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:00:50.527: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:00:50.528: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:00:50.529: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:00:50.529: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:00:52.389: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:00:52.408: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:00:52.453: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:00:52.453: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:00:52.454: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:00:53.361: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:00:53.381: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:00:53.424: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:00:53.424: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:00:59.636: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:00:59.655: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:00:59.699: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:01:00.672: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:01:00.691: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:02:54.639: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:54.639: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:54.64: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:54.64: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:55.165: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:55.165: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:55.165: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:55.717: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:55.717: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:56.362: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:02:58.183: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:02:58.204: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:02:58.243: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:02:58.244: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:02:58.245: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:02:58.245: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:03:00.354: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:03:00.372: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:03:00.414: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:03:00.414: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:03:00.415: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:03:02.009: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:03:02.028: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:03:02.07: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:03:02.071: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:06:47.918: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:06:47.918: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:06:48.604: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:07:06.407: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:07:06.432: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:07:06.478: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:07:06.48: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:07:06.481: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:07:06.484: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:07:07.933: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:07:07.953: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:07:07.997: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:07:07.999: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:07:08.0: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:07:10.762: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:07:10.782: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:07:10.83: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:07:10.832: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:10:13.645: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:10:13.649: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:10:14.204: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:10:19.694: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:10:19.713: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:10:21.943: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:10:21.962: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:10:24.429: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:10:24.448: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:10:30.021: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:13:49.147: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:13:49.166: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:13:49.206: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:13:49.207: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:13:49.208: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:13:49.209: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:13:54.323: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:13:54.342: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:13:54.392: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:13:54.392: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:13:54.393: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:14:01.419: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:27.649: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:15:27.669: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:15:27.71: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:15:27.711: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:15:27.712: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:15:27.712: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:15:28.642: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:15:28.662: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:15:28.707: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:15:28.708: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:15:28.71: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:15:29.497: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:15:29.518: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:15:29.565: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:15:29.566: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:15:30.479: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:15:30.499: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:15:30.544: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:15:31.312: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:15:31.331: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:15:35.826: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:35.826: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:35.827: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:35.826: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:40.87: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:40.87: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:40.87: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:15:44.545: Thread ID: 1: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset
+./server_log.txt 2020-04-22 18:17:08.124: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:17:08.144: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:17:08.183: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:17:08.183: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:17:08.184: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:17:08.185: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:22:21.599: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:22:21.619: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:22:21.659: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:22:21.66: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:22:21.661: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:22:21.661: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:23:24.817: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:23:24.838: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:23:24.878: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:23:24.878: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:23:24.879: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:23:24.879: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:28:29.77: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:28:29.793: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:28:29.835: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:28:29.836: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:28:29.836: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:28:29.837: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:28:32.164: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:28:32.182: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:28:32.227: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:28:32.227: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:28:32.228: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:28:32.249: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:35.867: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:28:35.886: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:28:35.931: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:28:35.931: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:28:35.938: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:35.946: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:45.284: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:28:45.308: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:28:45.352: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:28:45.359: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:45.37: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:45.37: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:46.997: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:28:47.017: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:28:47.071: Thread ID: 14: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:47.083: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:47.084: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:47.085: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:28:53.397: Thread ID: 15: in getAllAuctions
+./server_log.txt 2020-04-22 18:29:04.078: Thread ID: 16: received req for createAuction car
+./server_log.txt 2020-04-22 18:29:04.084: Thread ID: 16: starting paxos
+./server_log.txt 2020-04-22 18:29:04.114: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:29:04.115: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:29:04.137: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:29:04.138: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:29:04.16: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:29:04.16: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:29:04.18: Thread ID: 11: in prepare
+./server_log.txt 2020-04-22 18:29:04.181: Thread ID: 11: in promise
+./server_log.txt 2020-04-22 18:29:04.183: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:29:04.184: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:29:04.193: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:29:04.193: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:29:04.194: Thread ID: 14: create car
+./server_log.txt 2020-04-22 18:29:04.203: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:29:04.203: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:29:04.203: Thread ID: 13: create car
+./server_log.txt 2020-04-22 18:29:04.21: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:29:04.211: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:29:04.211: Thread ID: 12: create car
+./server_log.txt 2020-04-22 18:29:04.223: Thread ID: 11: in accept
+./server_log.txt 2020-04-22 18:29:04.223: Thread ID: 11: in announce
+./server_log.txt 2020-04-22 18:29:04.223: Thread ID: 11: create car
+./server_log.txt 2020-04-22 18:29:04.228: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:29:04.228: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:29:04.229: Thread ID: 17: create car
+./server_log.txt 2020-04-22 18:29:09.775: Thread ID: 18: in getAllAuctions
+./server_log.txt 2020-04-22 18:29:28.668: Thread ID: 16: in getAllAuctions
+./server_log.txt 2020-04-22 18:29:33.073: Thread ID: 17: received req for createAuction cat
+./server_log.txt 2020-04-22 18:29:33.073: Thread ID: 17: starting paxos
+./server_log.txt 2020-04-22 18:29:33.079: Thread ID: 19: in prepare
+./server_log.txt 2020-04-22 18:29:33.08: Thread ID: 19: in promise
+./server_log.txt 2020-04-22 18:29:33.081: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:29:33.082: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:29:33.083: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:29:33.083: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:29:33.086: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:29:33.087: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:29:33.089: Thread ID: 18: in prepare
+./server_log.txt 2020-04-22 18:29:33.09: Thread ID: 18: in promise
+./server_log.txt 2020-04-22 18:29:33.091: Thread ID: 19: in accept
+./server_log.txt 2020-04-22 18:29:33.092: Thread ID: 19: in announce
+./server_log.txt 2020-04-22 18:29:33.094: Thread ID: 19: create cat
+./server_log.txt 2020-04-22 18:29:33.095: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:29:33.096: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:29:33.096: Thread ID: 14: create cat
+./server_log.txt 2020-04-22 18:29:33.097: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:29:33.097: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:29:33.098: Thread ID: 13: create cat
+./server_log.txt 2020-04-22 18:29:33.099: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:29:33.099: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:29:33.099: Thread ID: 12: create cat
+./server_log.txt 2020-04-22 18:29:33.1: Thread ID: 18: in accept
+./server_log.txt 2020-04-22 18:29:33.101: Thread ID: 18: in announce
+./server_log.txt 2020-04-22 18:29:33.102: Thread ID: 18: create cat
+./server_log.txt 2020-04-22 18:29:35.199: Thread ID: 19: in getAllAuctions
+./server_log.txt 2020-04-22 18:29:52.922: Thread ID: 16: in getAllAuctions
+./server_log.txt 2020-04-22 18:29:59.333: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:29:59.353: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:29:59.402: Thread ID: 20: in getAllAuctions
+./server_log.txt 2020-04-22 18:29:59.416: Thread ID: 1: recovered all data by sync'ing to the cluster
+./server_log.txt 2020-04-22 18:30:06.895: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:30:08.872: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:06.494: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:33:06.513: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:33:06.553: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:33:06.554: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:33:06.555: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:33:06.555: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:33:08.806: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:33:08.826: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:33:08.876: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:33:08.876: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:33:08.877: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:33:08.895: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:11.86: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:33:11.882: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:33:11.929: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:33:11.93: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:33:11.937: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:11.944: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:14.984: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:33:15.005: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:33:15.05: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:33:15.056: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:15.067: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:15.068: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:16.447: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:33:16.465: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:33:16.514: Thread ID: 14: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:16.52: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:16.521: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:16.523: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:33:47.211: Thread ID: 16: received req for createAuction car
+./server_log.txt 2020-04-22 18:33:47.216: Thread ID: 16: starting paxos
+./server_log.txt 2020-04-22 18:33:47.243: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:33:47.244: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:33:47.269: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:33:47.269: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:33:47.292: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:33:47.294: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:33:47.316: Thread ID: 11: in prepare
+./server_log.txt 2020-04-22 18:33:47.317: Thread ID: 11: in promise
+./server_log.txt 2020-04-22 18:33:47.319: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:33:47.32: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:33:47.333: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:33:47.333: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:33:47.334: Thread ID: 15: create car
+./server_log.txt 2020-04-22 18:33:47.342: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:33:47.342: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:33:47.343: Thread ID: 14: create car
+./server_log.txt 2020-04-22 18:33:47.351: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:33:47.351: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:33:47.352: Thread ID: 12: create car
+./server_log.txt 2020-04-22 18:33:47.359: Thread ID: 11: in accept
+./server_log.txt 2020-04-22 18:33:47.359: Thread ID: 11: in announce
+./server_log.txt 2020-04-22 18:33:47.359: Thread ID: 11: create car
+./server_log.txt 2020-04-22 18:33:47.363: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:33:47.364: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:33:47.364: Thread ID: 17: create car
+./server_log.txt 2020-04-22 18:33:55.962: Thread ID: 18: received req for createAuction shoes
+./server_log.txt 2020-04-22 18:33:55.963: Thread ID: 18: starting paxos
+./server_log.txt 2020-04-22 18:33:55.968: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:33:55.969: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:33:55.97: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:33:55.971: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:33:55.973: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:33:55.974: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:33:55.976: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:33:55.978: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:33:55.98: Thread ID: 19: in prepare
+./server_log.txt 2020-04-22 18:33:55.98: Thread ID: 19: in promise
+./server_log.txt 2020-04-22 18:33:55.981: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:33:55.982: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:33:55.982: Thread ID: 16: create shoes
+./server_log.txt 2020-04-22 18:33:55.983: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:33:55.984: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:33:55.985: Thread ID: 15: create shoes
+./server_log.txt 2020-04-22 18:33:55.985: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:33:55.986: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:33:55.986: Thread ID: 13: create shoes
+./server_log.txt 2020-04-22 18:33:55.987: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:33:55.987: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:33:55.988: Thread ID: 12: create shoes
+./server_log.txt 2020-04-22 18:33:55.989: Thread ID: 19: in accept
+./server_log.txt 2020-04-22 18:33:55.99: Thread ID: 19: in announce
+./server_log.txt 2020-04-22 18:33:55.99: Thread ID: 19: create shoes
+./server_log.txt 2020-04-22 18:33:58.993: Thread ID: 20: in getAllAuctions
+./server_log.txt 2020-04-22 18:34:09.714: Thread ID: 17: in getAllAuctions
+./server_log.txt 2020-04-22 18:34:18.28: Thread ID: 18: received req for bid car
+./server_log.txt 2020-04-22 18:34:18.288: Thread ID: 18: starting paxos
+./server_log.txt 2020-04-22 18:34:18.3: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:34:18.301: Thread ID: 21: in promise - nack
+./server_log.txt 2020-04-22 18:34:18.306: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:34:18.31: Thread ID: 21: in promise
+./server_log.txt 2020-04-22 18:34:18.315: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:34:18.315: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:34:18.324: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:34:18.326: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:34:18.33: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:34:18.33: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:34:18.331: Thread ID: 19: in prepare
+./server_log.txt 2020-04-22 18:34:18.332: Thread ID: 19: in promise
+./server_log.txt 2020-04-22 18:34:18.332: Thread ID: 21: in accept
+./server_log.txt 2020-04-22 18:34:18.333: Thread ID: 21: in announce
+./server_log.txt 2020-04-22 18:34:18.333: Thread ID: 21: attempting bid car 1100
+./server_log.txt 2020-04-22 18:34:18.333: Thread ID: 21: bid successful
+./server_log.txt 2020-04-22 18:34:18.338: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:34:18.339: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:34:18.339: Thread ID: 16: attempting bid car 1100
+./server_log.txt 2020-04-22 18:34:18.34: Thread ID: 16: bid successful
+./server_log.txt 2020-04-22 18:34:18.342: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:34:18.344: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:34:18.345: Thread ID: 14: attempting bid car 1100
+./server_log.txt 2020-04-22 18:34:18.346: Thread ID: 14: bid successful
+./server_log.txt 2020-04-22 18:34:18.347: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:34:18.348: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:34:18.348: Thread ID: 13: attempting bid car 1100
+./server_log.txt 2020-04-22 18:34:18.348: Thread ID: 13: bid successful
+./server_log.txt 2020-04-22 18:34:18.349: Thread ID: 19: in accept
+./server_log.txt 2020-04-22 18:34:18.349: Thread ID: 19: in announce
+./server_log.txt 2020-04-22 18:34:18.349: Thread ID: 19: attempting bid car 1100
+./server_log.txt 2020-04-22 18:34:18.35: Thread ID: 19: bid successful
+./server_log.txt 2020-04-22 18:34:23.117: Thread ID: 20: received req for bid shoes
+./server_log.txt 2020-04-22 18:34:23.117: Thread ID: 20: starting paxos
+./server_log.txt 2020-04-22 18:34:23.123: Thread ID: 22: in prepare
+./server_log.txt 2020-04-22 18:34:23.124: Thread ID: 22: in promise
+./server_log.txt 2020-04-22 18:34:23.126: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:34:23.127: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:34:23.127: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:34:23.128: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:34:23.129: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:34:23.13: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:34:23.13: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:34:23.131: Thread ID: 21: in promise
+./server_log.txt 2020-04-22 18:34:23.132: Thread ID: 22: in accept
+./server_log.txt 2020-04-22 18:34:23.132: Thread ID: 22: in announce
+./server_log.txt 2020-04-22 18:34:23.133: Thread ID: 22: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:34:23.134: Thread ID: 22: bid successful
+./server_log.txt 2020-04-22 18:34:23.136: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:34:23.136: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:34:23.136: Thread ID: 17: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:34:23.137: Thread ID: 17: bid successful
+./server_log.txt 2020-04-22 18:34:23.138: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:34:23.139: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:34:23.14: Thread ID: 15: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:34:23.14: Thread ID: 15: bid successful
+./server_log.txt 2020-04-22 18:34:23.142: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:34:23.143: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:34:23.144: Thread ID: 14: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:34:23.145: Thread ID: 14: bid successful
+./server_log.txt 2020-04-22 18:34:23.146: Thread ID: 21: in accept
+./server_log.txt 2020-04-22 18:34:23.147: Thread ID: 21: in announce
+./server_log.txt 2020-04-22 18:34:23.147: Thread ID: 21: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:34:23.148: Thread ID: 21: bid successful
+./server_log.txt 2020-04-22 18:34:30.941: Thread ID: 18: in getAllAuctions
+./server_log.txt 2020-04-22 18:34:38.978: Thread ID: 19: received req for bid car
+./server_log.txt 2020-04-22 18:34:38.978: Thread ID: 19: starting paxos
+./server_log.txt 2020-04-22 18:34:38.985: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:34:38.986: Thread ID: 23: in promise - nack
+./server_log.txt 2020-04-22 18:34:38.987: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:34:38.989: Thread ID: 23: in promise - nack
+./server_log.txt 2020-04-22 18:34:38.991: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:34:38.992: Thread ID: 23: in promise
+./server_log.txt 2020-04-22 18:34:38.993: Thread ID: 22: in prepare
+./server_log.txt 2020-04-22 18:34:38.993: Thread ID: 22: in promise
+./server_log.txt 2020-04-22 18:34:38.994: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:34:38.995: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:34:38.995: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:34:38.996: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:34:38.997: Thread ID: 20: in prepare
+./server_log.txt 2020-04-22 18:34:38.997: Thread ID: 20: in promise
+./server_log.txt 2020-04-22 18:34:38.998: Thread ID: 23: in accept
+./server_log.txt 2020-04-22 18:34:38.999: Thread ID: 23: in announce
+./server_log.txt 2020-04-22 18:34:39.0: Thread ID: 23: attempting bid car 1200
+./server_log.txt 2020-04-22 18:34:39.001: Thread ID: 23: bid successful
+./server_log.txt 2020-04-22 18:34:39.002: Thread ID: 22: in accept
+./server_log.txt 2020-04-22 18:34:39.002: Thread ID: 22: in announce
+./server_log.txt 2020-04-22 18:34:39.002: Thread ID: 22: attempting bid car 1200
+./server_log.txt 2020-04-22 18:34:39.003: Thread ID: 22: bid successful
+./server_log.txt 2020-04-22 18:34:39.004: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:34:39.004: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:34:39.005: Thread ID: 16: attempting bid car 1200
+./server_log.txt 2020-04-22 18:34:39.005: Thread ID: 16: bid successful
+./server_log.txt 2020-04-22 18:34:39.007: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:34:39.008: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:34:39.009: Thread ID: 15: attempting bid car 1200
+./server_log.txt 2020-04-22 18:34:39.01: Thread ID: 15: bid successful
+./server_log.txt 2020-04-22 18:34:39.013: Thread ID: 20: in accept
+./server_log.txt 2020-04-22 18:34:39.013: Thread ID: 20: in announce
+./server_log.txt 2020-04-22 18:34:39.013: Thread ID: 20: attempting bid car 1200
+./server_log.txt 2020-04-22 18:34:39.013: Thread ID: 20: bid successful
+./server_log.txt 2020-04-22 18:34:43.965: Thread ID: 24: in getAllAuctions
+./server_log.txt 2020-04-22 18:34:56.845: Thread ID: 25: received req for closeAuction car
+./server_log.txt 2020-04-22 18:34:56.846: Thread ID: 25: starting paxos
+./server_log.txt 2020-04-22 18:34:56.856: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:34:56.856: Thread ID: 23: in promise
+./server_log.txt 2020-04-22 18:34:56.859: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:34:56.859: Thread ID: 21: in promise
+./server_log.txt 2020-04-22 18:34:56.861: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:34:56.861: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:34:56.863: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:34:56.863: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:34:56.866: Thread ID: 26: in prepare
+./server_log.txt 2020-04-22 18:34:56.866: Thread ID: 26: in promise
+./server_log.txt 2020-04-22 18:34:56.868: Thread ID: 23: in accept
+./server_log.txt 2020-04-22 18:34:56.872: Thread ID: 23: in announce
+./server_log.txt 2020-04-22 18:34:56.873: Thread ID: 23: close car
+./server_log.txt 2020-04-22 18:34:56.875: Thread ID: 21: in accept
+./server_log.txt 2020-04-22 18:34:56.875: Thread ID: 21: in announce
+./server_log.txt 2020-04-22 18:34:56.876: Thread ID: 21: close car
+./server_log.txt 2020-04-22 18:34:56.878: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:34:56.878: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:34:56.879: Thread ID: 17: close car
+./server_log.txt 2020-04-22 18:34:56.884: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:34:56.886: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:34:56.887: Thread ID: 16: close car
+./server_log.txt 2020-04-22 18:34:56.9: Thread ID: 26: in accept
+./server_log.txt 2020-04-22 18:34:56.9: Thread ID: 26: in announce
+./server_log.txt 2020-04-22 18:34:56.9: Thread ID: 26: close car
+./server_log.txt 2020-04-22 18:35:06.508: Thread ID: 27: received req for delAuction shoes
+./server_log.txt 2020-04-22 18:35:06.508: Thread ID: 27: starting paxos
+./server_log.txt 2020-04-22 18:35:06.517: Thread ID: 24: in prepare
+./server_log.txt 2020-04-22 18:35:06.519: Thread ID: 24: in promise
+./server_log.txt 2020-04-22 18:35:06.522: Thread ID: 22: in prepare
+./server_log.txt 2020-04-22 18:35:06.522: Thread ID: 22: in promise
+./server_log.txt 2020-04-22 18:35:06.524: Thread ID: 18: in prepare
+./server_log.txt 2020-04-22 18:35:06.525: Thread ID: 18: in promise
+./server_log.txt 2020-04-22 18:35:06.526: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:35:06.527: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:35:06.529: Thread ID: 28: in prepare
+./server_log.txt 2020-04-22 18:35:06.537: Thread ID: 28: in promise
+./server_log.txt 2020-04-22 18:35:06.539: Thread ID: 24: in accept
+./server_log.txt 2020-04-22 18:35:06.54: Thread ID: 24: in announce
+./server_log.txt 2020-04-22 18:35:06.541: Thread ID: 24: delete shoes
+./server_log.txt 2020-04-22 18:35:06.543: Thread ID: 22: in accept
+./server_log.txt 2020-04-22 18:35:06.544: Thread ID: 22: in announce
+./server_log.txt 2020-04-22 18:35:06.545: Thread ID: 22: delete shoes
+./server_log.txt 2020-04-22 18:35:06.55: Thread ID: 18: in accept
+./server_log.txt 2020-04-22 18:35:06.55: Thread ID: 18: in announce
+./server_log.txt 2020-04-22 18:35:06.551: Thread ID: 18: delete shoes
+./server_log.txt 2020-04-22 18:35:06.552: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:35:06.554: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:35:06.569: Thread ID: 17: delete shoes
+./server_log.txt 2020-04-22 18:35:06.572: Thread ID: 28: in accept
+./server_log.txt 2020-04-22 18:35:06.574: Thread ID: 28: in announce
+./server_log.txt 2020-04-22 18:35:06.575: Thread ID: 28: delete shoes
+./server_log.txt 2020-04-22 18:35:52.151: Thread ID: 29: in getAllAuctions
+./server_log.txt 2020-04-22 18:36:04.702: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:36:04.723: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:36:04.773: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:36:04.786: Thread ID: 1: recovered all data by sync'ing to the cluster
+./server_log.txt 2020-04-22 18:36:10.816: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:04.092: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:39:04.112: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:39:04.151: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:39:04.152: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:39:04.153: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:39:04.153: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:39:05.494: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:39:05.514: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:39:05.558: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:39:05.558: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:39:05.559: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:39:05.58: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:06.971: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:39:06.991: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:39:07.055: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:39:07.057: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:39:07.064: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:07.072: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:08.523: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:39:08.541: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:39:08.586: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:39:08.594: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:08.599: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:08.6: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:09.975: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:39:09.994: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:39:10.043: Thread ID: 14: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:10.048: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:10.049: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:10.05: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:27.797: Thread ID: 16: received req for createAuction car
+./server_log.txt 2020-04-22 18:39:27.81: Thread ID: 16: starting paxos
+./server_log.txt 2020-04-22 18:39:27.838: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:39:27.839: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:39:27.863: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:39:27.863: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:39:27.886: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:39:27.887: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:39:27.905: Thread ID: 11: in prepare
+./server_log.txt 2020-04-22 18:39:27.906: Thread ID: 11: in promise
+./server_log.txt 2020-04-22 18:39:27.908: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:39:27.909: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:39:27.918: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:39:27.918: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:39:27.919: Thread ID: 15: create car
+./server_log.txt 2020-04-22 18:39:27.928: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:39:27.928: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:39:27.928: Thread ID: 14: create car
+./server_log.txt 2020-04-22 18:39:27.935: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:39:27.936: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:39:27.936: Thread ID: 12: create car
+./server_log.txt 2020-04-22 18:39:27.945: Thread ID: 11: in accept
+./server_log.txt 2020-04-22 18:39:27.946: Thread ID: 11: in announce
+./server_log.txt 2020-04-22 18:39:27.947: Thread ID: 11: create car
+./server_log.txt 2020-04-22 18:39:27.95: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:39:27.95: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:39:27.95: Thread ID: 17: create car
+./server_log.txt 2020-04-22 18:39:32.602: Thread ID: 16: received req for bid car
+./server_log.txt 2020-04-22 18:39:32.605: Thread ID: 16: starting paxos
+./server_log.txt 2020-04-22 18:39:32.613: Thread ID: 18: in prepare
+./server_log.txt 2020-04-22 18:39:32.614: Thread ID: 18: in promise
+./server_log.txt 2020-04-22 18:39:32.623: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:39:32.623: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:39:32.63: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:39:32.63: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:39:32.636: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:39:32.637: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:39:32.638: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:39:32.638: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:39:32.639: Thread ID: 18: in accept
+./server_log.txt 2020-04-22 18:39:32.64: Thread ID: 18: in announce
+./server_log.txt 2020-04-22 18:39:32.641: Thread ID: 18: attempting bid car 20
+./server_log.txt 2020-04-22 18:39:32.642: Thread ID: 18: bid successful
+./server_log.txt 2020-04-22 18:39:32.643: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:39:32.643: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:39:32.643: Thread ID: 15: attempting bid car 20
+./server_log.txt 2020-04-22 18:39:32.644: Thread ID: 15: bid successful
+./server_log.txt 2020-04-22 18:39:32.645: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:39:32.646: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:39:32.646: Thread ID: 13: attempting bid car 20
+./server_log.txt 2020-04-22 18:39:32.647: Thread ID: 13: bid successful
+./server_log.txt 2020-04-22 18:39:32.648: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:39:32.648: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:39:32.648: Thread ID: 12: attempting bid car 20
+./server_log.txt 2020-04-22 18:39:32.649: Thread ID: 12: bid successful
+./server_log.txt 2020-04-22 18:39:32.649: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:39:32.65: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:39:32.65: Thread ID: 17: attempting bid car 20
+./server_log.txt 2020-04-22 18:39:32.65: Thread ID: 17: bid successful
+./server_log.txt 2020-04-22 18:39:33.559: Thread ID: 18: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:37.148: Thread ID: 19: received req for closeAuction car
+./server_log.txt 2020-04-22 18:39:37.148: Thread ID: 19: starting paxos
+./server_log.txt 2020-04-22 18:39:37.159: Thread ID: 19: in prepare
+./server_log.txt 2020-04-22 18:39:37.159: Thread ID: 19: in promise
+./server_log.txt 2020-04-22 18:39:37.164: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:39:37.164: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:39:37.166: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:39:37.166: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:39:37.167: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:39:37.168: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:39:37.169: Thread ID: 20: in prepare
+./server_log.txt 2020-04-22 18:39:37.169: Thread ID: 20: in promise
+./server_log.txt 2020-04-22 18:39:37.17: Thread ID: 19: in accept
+./server_log.txt 2020-04-22 18:39:37.17: Thread ID: 19: in announce
+./server_log.txt 2020-04-22 18:39:37.17: Thread ID: 19: close car
+./server_log.txt 2020-04-22 18:39:37.175: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:39:37.175: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:39:37.176: Thread ID: 16: close car
+./server_log.txt 2020-04-22 18:39:37.177: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:39:37.178: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:39:37.179: Thread ID: 14: close car
+./server_log.txt 2020-04-22 18:39:37.182: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:39:37.182: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:39:37.183: Thread ID: 13: close car
+./server_log.txt 2020-04-22 18:39:37.186: Thread ID: 20: in accept
+./server_log.txt 2020-04-22 18:39:37.186: Thread ID: 20: in announce
+./server_log.txt 2020-04-22 18:39:37.187: Thread ID: 20: close car
+./server_log.txt 2020-04-22 18:39:39.136: Thread ID: 20: in getAllAuctions
+./server_log.txt 2020-04-22 18:39:47.543: Thread ID: 17: received req for bid car
+./server_log.txt 2020-04-22 18:39:50.873: Thread ID: 18: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:16.515: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:41:16.536: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:41:16.583: Thread ID: 1: cannot connect to localhost:30001
+./server_log.txt 2020-04-22 18:41:16.583: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:41:16.584: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:41:16.584: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:41:18.08: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:41:18.099: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:41:18.146: Thread ID: 1: cannot connect to localhost:30002
+./server_log.txt 2020-04-22 18:41:18.146: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:41:18.147: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:41:18.167: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:19.599: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:41:19.621: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:41:19.673: Thread ID: 1: cannot connect to localhost:30003
+./server_log.txt 2020-04-22 18:41:19.674: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:41:19.682: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:19.688: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:21.261: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:41:21.281: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:41:21.331: Thread ID: 1: cannot connect to localhost:30004
+./server_log.txt 2020-04-22 18:41:21.337: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:21.347: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:21.347: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:22.511: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:41:22.53: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:41:22.586: Thread ID: 14: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:22.594: Thread ID: 13: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:22.595: Thread ID: 12: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:22.596: Thread ID: 11: in getAllAuctions
+./server_log.txt 2020-04-22 18:41:51.144: Thread ID: 16: received req for createAuction car
+./server_log.txt 2020-04-22 18:41:51.147: Thread ID: 16: starting paxos
+./server_log.txt 2020-04-22 18:41:51.181: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:41:51.181: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:41:51.206: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:41:51.206: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:41:51.229: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:41:51.23: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:41:51.251: Thread ID: 11: in prepare
+./server_log.txt 2020-04-22 18:41:51.252: Thread ID: 11: in promise
+./server_log.txt 2020-04-22 18:41:51.253: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:41:51.254: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:41:51.263: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:41:51.263: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:41:51.263: Thread ID: 15: create car
+./server_log.txt 2020-04-22 18:41:51.276: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:41:51.278: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:41:51.278: Thread ID: 14: create car
+./server_log.txt 2020-04-22 18:41:51.286: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:41:51.286: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:41:51.287: Thread ID: 12: create car
+./server_log.txt 2020-04-22 18:41:51.295: Thread ID: 11: in accept
+./server_log.txt 2020-04-22 18:41:51.295: Thread ID: 11: in announce
+./server_log.txt 2020-04-22 18:41:51.296: Thread ID: 11: create car
+./server_log.txt 2020-04-22 18:41:51.299: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:41:51.299: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:41:51.299: Thread ID: 17: create car
+./server_log.txt 2020-04-22 18:42:01.676: Thread ID: 18: received req for createAuction shoes
+./server_log.txt 2020-04-22 18:42:01.676: Thread ID: 18: starting paxos
+./server_log.txt 2020-04-22 18:42:01.683: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:42:01.684: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:42:01.687: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:42:01.688: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:42:01.689: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:42:01.69: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:42:01.691: Thread ID: 12: in prepare
+./server_log.txt 2020-04-22 18:42:01.692: Thread ID: 12: in promise
+./server_log.txt 2020-04-22 18:42:01.693: Thread ID: 19: in prepare
+./server_log.txt 2020-04-22 18:42:01.693: Thread ID: 19: in promise
+./server_log.txt 2020-04-22 18:42:01.694: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:42:01.694: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:42:01.695: Thread ID: 16: create shoes
+./server_log.txt 2020-04-22 18:42:01.696: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:42:01.696: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:42:01.696: Thread ID: 15: create shoes
+./server_log.txt 2020-04-22 18:42:01.697: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:42:01.698: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:42:01.698: Thread ID: 13: create shoes
+./server_log.txt 2020-04-22 18:42:01.699: Thread ID: 12: in accept
+./server_log.txt 2020-04-22 18:42:01.7: Thread ID: 12: in announce
+./server_log.txt 2020-04-22 18:42:01.703: Thread ID: 12: create shoes
+./server_log.txt 2020-04-22 18:42:01.706: Thread ID: 19: in accept
+./server_log.txt 2020-04-22 18:42:01.707: Thread ID: 19: in announce
+./server_log.txt 2020-04-22 18:42:01.708: Thread ID: 19: create shoes
+./server_log.txt 2020-04-22 18:42:05.646: Thread ID: 20: in getAllAuctions
+./server_log.txt 2020-04-22 18:42:14.572: Thread ID: 17: in getAllAuctions
+./server_log.txt 2020-04-22 18:42:27.141: Thread ID: 18: received req for bid car
+./server_log.txt 2020-04-22 18:42:27.144: Thread ID: 18: starting paxos
+./server_log.txt 2020-04-22 18:42:27.156: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:42:27.156: Thread ID: 21: in promise - nack
+./server_log.txt 2020-04-22 18:42:27.158: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:42:27.159: Thread ID: 21: in promise
+./server_log.txt 2020-04-22 18:42:27.166: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:42:27.167: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:42:27.178: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:42:27.178: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:42:27.183: Thread ID: 13: in prepare
+./server_log.txt 2020-04-22 18:42:27.183: Thread ID: 13: in promise
+./server_log.txt 2020-04-22 18:42:27.185: Thread ID: 19: in prepare
+./server_log.txt 2020-04-22 18:42:27.185: Thread ID: 19: in promise
+./server_log.txt 2020-04-22 18:42:27.186: Thread ID: 21: in accept
+./server_log.txt 2020-04-22 18:42:27.187: Thread ID: 21: in announce
+./server_log.txt 2020-04-22 18:42:27.187: Thread ID: 21: attempting bid car 1100
+./server_log.txt 2020-04-22 18:42:27.188: Thread ID: 21: bid successful
+./server_log.txt 2020-04-22 18:42:27.19: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:42:27.191: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:42:27.191: Thread ID: 16: attempting bid car 1100
+./server_log.txt 2020-04-22 18:42:27.192: Thread ID: 16: bid successful
+./server_log.txt 2020-04-22 18:42:27.194: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:42:27.194: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:42:27.194: Thread ID: 14: attempting bid car 1100
+./server_log.txt 2020-04-22 18:42:27.195: Thread ID: 14: bid successful
+./server_log.txt 2020-04-22 18:42:27.196: Thread ID: 13: in accept
+./server_log.txt 2020-04-22 18:42:27.196: Thread ID: 13: in announce
+./server_log.txt 2020-04-22 18:42:27.197: Thread ID: 13: attempting bid car 1100
+./server_log.txt 2020-04-22 18:42:27.197: Thread ID: 13: bid successful
+./server_log.txt 2020-04-22 18:42:27.199: Thread ID: 19: in accept
+./server_log.txt 2020-04-22 18:42:27.199: Thread ID: 19: in announce
+./server_log.txt 2020-04-22 18:42:27.199: Thread ID: 19: attempting bid car 1100
+./server_log.txt 2020-04-22 18:42:27.2: Thread ID: 19: bid successful
+./server_log.txt 2020-04-22 18:42:33.521: Thread ID: 20: received req for bid shoes
+./server_log.txt 2020-04-22 18:42:33.522: Thread ID: 20: starting paxos
+./server_log.txt 2020-04-22 18:42:33.526: Thread ID: 22: in prepare
+./server_log.txt 2020-04-22 18:42:33.527: Thread ID: 22: in promise
+./server_log.txt 2020-04-22 18:42:33.528: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:42:33.529: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:42:33.53: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:42:33.532: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:42:33.535: Thread ID: 14: in prepare
+./server_log.txt 2020-04-22 18:42:33.535: Thread ID: 14: in promise
+./server_log.txt 2020-04-22 18:42:33.538: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:42:33.539: Thread ID: 21: in promise
+./server_log.txt 2020-04-22 18:42:33.54: Thread ID: 22: in accept
+./server_log.txt 2020-04-22 18:42:33.541: Thread ID: 22: in announce
+./server_log.txt 2020-04-22 18:42:33.541: Thread ID: 22: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:42:33.542: Thread ID: 22: bid successful
+./server_log.txt 2020-04-22 18:42:33.543: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:42:33.543: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:42:33.544: Thread ID: 17: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:42:33.544: Thread ID: 17: bid successful
+./server_log.txt 2020-04-22 18:42:33.544: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:42:33.545: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:42:33.545: Thread ID: 15: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:42:33.546: Thread ID: 15: bid successful
+./server_log.txt 2020-04-22 18:42:33.547: Thread ID: 14: in accept
+./server_log.txt 2020-04-22 18:42:33.547: Thread ID: 14: in announce
+./server_log.txt 2020-04-22 18:42:33.548: Thread ID: 14: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:42:33.549: Thread ID: 14: bid successful
+./server_log.txt 2020-04-22 18:42:33.55: Thread ID: 21: in accept
+./server_log.txt 2020-04-22 18:42:33.551: Thread ID: 21: in announce
+./server_log.txt 2020-04-22 18:42:33.551: Thread ID: 21: attempting bid shoes 6
+./server_log.txt 2020-04-22 18:42:33.551: Thread ID: 21: bid successful
+./server_log.txt 2020-04-22 18:42:39.263: Thread ID: 18: in getAllAuctions
+./server_log.txt 2020-04-22 18:42:48.192: Thread ID: 19: received req for bid car
+./server_log.txt 2020-04-22 18:42:48.193: Thread ID: 19: starting paxos
+./server_log.txt 2020-04-22 18:42:48.202: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:42:48.203: Thread ID: 23: in promise - nack
+./server_log.txt 2020-04-22 18:42:48.204: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:42:48.205: Thread ID: 23: in promise - nack
+./server_log.txt 2020-04-22 18:42:48.207: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:42:48.207: Thread ID: 23: in promise
+./server_log.txt 2020-04-22 18:42:48.208: Thread ID: 22: in prepare
+./server_log.txt 2020-04-22 18:42:48.209: Thread ID: 22: in promise
+./server_log.txt 2020-04-22 18:42:48.213: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:42:48.215: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:42:48.218: Thread ID: 15: in prepare
+./server_log.txt 2020-04-22 18:42:48.221: Thread ID: 15: in promise
+./server_log.txt 2020-04-22 18:42:48.226: Thread ID: 20: in prepare
+./server_log.txt 2020-04-22 18:42:48.226: Thread ID: 20: in promise
+./server_log.txt 2020-04-22 18:42:48.231: Thread ID: 23: in accept
+./server_log.txt 2020-04-22 18:42:48.233: Thread ID: 23: in announce
+./server_log.txt 2020-04-22 18:42:48.239: Thread ID: 23: attempting bid car 1200
+./server_log.txt 2020-04-22 18:42:48.24: Thread ID: 23: bid successful
+./server_log.txt 2020-04-22 18:42:48.242: Thread ID: 22: in accept
+./server_log.txt 2020-04-22 18:42:48.243: Thread ID: 22: in announce
+./server_log.txt 2020-04-22 18:42:48.243: Thread ID: 22: attempting bid car 1200
+./server_log.txt 2020-04-22 18:42:48.243: Thread ID: 22: bid successful
+./server_log.txt 2020-04-22 18:42:48.245: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:42:48.245: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:42:48.246: Thread ID: 16: attempting bid car 1200
+./server_log.txt 2020-04-22 18:42:48.246: Thread ID: 16: bid successful
+./server_log.txt 2020-04-22 18:42:48.247: Thread ID: 15: in accept
+./server_log.txt 2020-04-22 18:42:48.247: Thread ID: 15: in announce
+./server_log.txt 2020-04-22 18:42:48.248: Thread ID: 15: attempting bid car 1200
+./server_log.txt 2020-04-22 18:42:48.248: Thread ID: 15: bid successful
+./server_log.txt 2020-04-22 18:42:48.249: Thread ID: 20: in accept
+./server_log.txt 2020-04-22 18:42:48.25: Thread ID: 20: in announce
+./server_log.txt 2020-04-22 18:42:48.25: Thread ID: 20: attempting bid car 1200
+./server_log.txt 2020-04-22 18:42:48.25: Thread ID: 20: bid successful
+./server_log.txt 2020-04-22 18:42:52.86: Thread ID: 24: in getAllAuctions
+./server_log.txt 2020-04-22 18:43:07.228: Thread ID: 25: received req for closeAuction car
+./server_log.txt 2020-04-22 18:43:07.229: Thread ID: 25: starting paxos
+./server_log.txt 2020-04-22 18:43:07.234: Thread ID: 23: in prepare
+./server_log.txt 2020-04-22 18:43:07.235: Thread ID: 23: in promise
+./server_log.txt 2020-04-22 18:43:07.237: Thread ID: 21: in prepare
+./server_log.txt 2020-04-22 18:43:07.237: Thread ID: 21: in promise
+./server_log.txt 2020-04-22 18:43:07.238: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:43:07.239: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:43:07.24: Thread ID: 16: in prepare
+./server_log.txt 2020-04-22 18:43:07.24: Thread ID: 16: in promise
+./server_log.txt 2020-04-22 18:43:07.241: Thread ID: 26: in prepare
+./server_log.txt 2020-04-22 18:43:07.242: Thread ID: 26: in promise
+./server_log.txt 2020-04-22 18:43:07.243: Thread ID: 23: in accept
+./server_log.txt 2020-04-22 18:43:07.243: Thread ID: 23: in announce
+./server_log.txt 2020-04-22 18:43:07.244: Thread ID: 23: close car
+./server_log.txt 2020-04-22 18:43:07.245: Thread ID: 21: in accept
+./server_log.txt 2020-04-22 18:43:07.246: Thread ID: 21: in announce
+./server_log.txt 2020-04-22 18:43:07.247: Thread ID: 21: close car
+./server_log.txt 2020-04-22 18:43:07.248: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:43:07.248: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:43:07.249: Thread ID: 17: close car
+./server_log.txt 2020-04-22 18:43:07.25: Thread ID: 16: in accept
+./server_log.txt 2020-04-22 18:43:07.251: Thread ID: 16: in announce
+./server_log.txt 2020-04-22 18:43:07.251: Thread ID: 16: close car
+./server_log.txt 2020-04-22 18:43:07.254: Thread ID: 26: in accept
+./server_log.txt 2020-04-22 18:43:07.255: Thread ID: 26: in announce
+./server_log.txt 2020-04-22 18:43:07.255: Thread ID: 26: close car
+./server_log.txt 2020-04-22 18:43:13.054: Thread ID: 27: received req for delAuction shoes
+./server_log.txt 2020-04-22 18:43:13.054: Thread ID: 27: starting paxos
+./server_log.txt 2020-04-22 18:43:13.062: Thread ID: 24: in prepare
+./server_log.txt 2020-04-22 18:43:13.064: Thread ID: 24: in promise
+./server_log.txt 2020-04-22 18:43:13.065: Thread ID: 22: in prepare
+./server_log.txt 2020-04-22 18:43:13.066: Thread ID: 22: in promise
+./server_log.txt 2020-04-22 18:43:13.068: Thread ID: 18: in prepare
+./server_log.txt 2020-04-22 18:43:13.073: Thread ID: 18: in promise
+./server_log.txt 2020-04-22 18:43:13.075: Thread ID: 17: in prepare
+./server_log.txt 2020-04-22 18:43:13.077: Thread ID: 17: in promise
+./server_log.txt 2020-04-22 18:43:13.08: Thread ID: 28: in prepare
+./server_log.txt 2020-04-22 18:43:13.081: Thread ID: 28: in promise
+./server_log.txt 2020-04-22 18:43:13.088: Thread ID: 24: in accept
+./server_log.txt 2020-04-22 18:43:13.09: Thread ID: 24: in announce
+./server_log.txt 2020-04-22 18:43:13.09: Thread ID: 24: delete shoes
+./server_log.txt 2020-04-22 18:43:13.092: Thread ID: 22: in accept
+./server_log.txt 2020-04-22 18:43:13.094: Thread ID: 22: in announce
+./server_log.txt 2020-04-22 18:43:13.096: Thread ID: 22: delete shoes
+./server_log.txt 2020-04-22 18:43:13.099: Thread ID: 18: in accept
+./server_log.txt 2020-04-22 18:43:13.101: Thread ID: 18: in announce
+./server_log.txt 2020-04-22 18:43:13.101: Thread ID: 18: delete shoes
+./server_log.txt 2020-04-22 18:43:13.115: Thread ID: 17: in accept
+./server_log.txt 2020-04-22 18:43:13.116: Thread ID: 17: in announce
+./server_log.txt 2020-04-22 18:43:13.116: Thread ID: 17: delete shoes
+./server_log.txt 2020-04-22 18:43:13.117: Thread ID: 28: in accept
+./server_log.txt 2020-04-22 18:43:13.118: Thread ID: 28: in announce
+./server_log.txt 2020-04-22 18:43:13.118: Thread ID: 28: delete shoes
+./server_log.txt 2020-04-22 18:43:19.025: Thread ID: 29: in getAllAuctions
+./server_log.txt 2020-04-22 18:43:34.001: Thread ID: 25: received req for bid car
+./server_log.txt 2020-04-22 18:43:50.76: Thread ID: 1: Initializing server
+./server_log.txt 2020-04-22 18:43:50.78: Thread ID: 1: Starting server
+./server_log.txt 2020-04-22 18:43:50.832: Thread ID: 22: in getAllAuctions
+./server_log.txt 2020-04-22 18:43:50.846: Thread ID: 1: recovered all data by sync'ing to the cluster
+./server_log.txt 2020-04-22 18:43:59.441: Thread ID: 11: in getAllAuctions

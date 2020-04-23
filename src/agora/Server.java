@@ -16,6 +16,11 @@ public class Server {
     int port;
     private List<Cohort> cohorts;
 
+    /**
+     * Initialize the Server with given peers
+     * @param port port that this server listens to
+     * @param peers address of peer servers in the cluster
+     */
     public Server(int port, String peers) {
         this.logger.log("Initializing server");
         this.port = port;
@@ -42,6 +47,9 @@ public class Server {
         }
     }
 
+    /**
+     * Start the server
+     */
     public void start() {
         this.logger.log("Starting server");
         try {
@@ -50,7 +58,7 @@ public class Server {
             TThreadPoolServer.Args args = new TThreadPoolServer
                     .Args(serverTransport)
                     .minWorkerThreads(10)
-                    .processor(new ThriftPaxos.Processor<>(new ThriftPaxosImpl(this.cohorts)));
+                    .processor(new ThriftPaxos.Processor<>(new ThriftPaxosImpl(this.cohorts, this.port)));
             TThreadPoolServer server = new TThreadPoolServer(args);
             server.serve();
         } catch (TTransportException e) {
