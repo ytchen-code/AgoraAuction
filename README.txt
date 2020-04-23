@@ -2,7 +2,7 @@ README for AgoraAliveAuction project
 
 =====================================================================
 
-(Video of this workflow is inside ./vidoe/ directory)
+(Video of this workflow is inside ./video/ directory)
 Example Workflow for 5 Servers and 3 Clients (also tests fault tolerance):
 Please use separate terminals for each server and client.
 
